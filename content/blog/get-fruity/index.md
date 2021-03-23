@@ -1,7 +1,8 @@
 ---
 title: Get fruity
 date: "2019-05-02"
-thumbnail: ./mike-dorner-173502-unsplash.jpg
+thumbnail: ./mike-dorner-173502-unsplash.jpg\
+tags: [vaporwave,retrowave,future-funk]
 description: A deep investigation into the pastel properties of colourful fruit and their psychological effects on hamsters
 ---
 
