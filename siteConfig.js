@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'DURÁ',
+  name: 'Savelievvaa',
   shortName: 'DURÁ',
-  description: 'Photographer portfolio website',
+  description: 'DURÁ',
   url: 'https://savelievvaa.com', 
   prefix: '/',
   author: '',
