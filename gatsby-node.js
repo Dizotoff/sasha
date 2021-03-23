@@ -6,7 +6,6 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const tagPage = path.resolve(`./src/templates/tag-page.js`)
   
   return graphql(
     `
@@ -22,7 +21,6 @@ exports.createPages = ({ graphql, actions }) => {
               }
               frontmatter {
                 title
-                tags
               }
             }
           }
@@ -36,18 +34,10 @@ exports.createPages = ({ graphql, actions }) => {
 
     // Create blog posts pages.
     const posts = result.data.allMarkdownRemark.edges
-    const tagSet = new Set();
 
     posts.forEach((post, index) => {
       const previous = index === posts.length - 1 ? null : posts[index + 1].node
       const next = index === 0 ? null : posts[index - 1].node
-
-      // Get tags for tags pages.
-      if (post.node.frontmatter.tags) {
-        post.node.frontmatter.tags.forEach(tag => {
-          tagSet.add(tag);
-        });
-      }
 
       createPage({
         path: post.node.fields.slug,
@@ -60,16 +50,7 @@ exports.createPages = ({ graphql, actions }) => {
       })
     })
 
-    // Create tags pages.
-    tagSet.forEach(tag => {
-      createPage({
-        path: `/tags/${_.kebabCase(tag)}/`,
-        component: tagPage,
-        context: {
-          tag
-        }
-      });
-    });
+ 
 
 
     return null
