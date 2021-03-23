@@ -52,7 +52,8 @@ const Layout = props => {
           {children}
         </div>
       </main>
-      <footer className="site-foot"></footer>
+      <footer className="site-foot">
+      &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link></footer>
     </div>
   )
 }
