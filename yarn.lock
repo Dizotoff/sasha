@@ -12298,7 +12298,7 @@
     "source-map" "^0.6.1"
     "supports-color" "^5.4.0"
 
-"postcss@^7.0.0 || ^8.0.1", "postcss@^8.0.5", "postcss@^8.1.0", "postcss@^8.1.4", "postcss@^8.2.1", "postcss@8.2.6":
+"postcss@^7.0.0 || ^8.0.1", "postcss@^8.0.5", "postcss@^8.1.0", "postcss@^8.1.4", "postcss@^8.2.1", "postcss@^8.2.6", "postcss@8.2.6":
   "integrity" "sha512-xpB8qYxgPuly166AGlpRjUdEYtmOWx2iCwGmrv4vqZL9YPVviDVPZPRXxnXr6xPZOdxQ9lp3ZBFCRgWJ7LE3Sg=="
   "resolved" "https://registry.npmjs.org/postcss/-/postcss-8.2.6.tgz"
   "version" "8.2.6"
