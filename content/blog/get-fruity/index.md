@@ -1,13 +1,13 @@
 ---
-title: Get really double fruity
+title: Get really REALLY double fruity
 date: 2019-05-02
+description: A deep investigation into the pastel properties of colourful fruit
+  and their psychological effects on hamsters
 thumbnail: ./mike-dorner-173502-unsplash.jpg
 tags:
   - vaporwave
   - retrowave
   - future-funk
-description: A deep investigation into the pastel properties of colourful fruit
-  and their psychological effects on hamsters
 ---
 
 ![Fruits](./mike-dorner-173503-unsplash.jpg)
