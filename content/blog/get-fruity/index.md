@@ -9,11 +9,8 @@ tags:
   - retrowave
   - future-funk
 ---
-
 ![Fruits](./mike-dorner-173503-unsplash.jpg)
-
-<div class="kg-card kg-image-card kg-width-wide">
 
 ![Fruits](./mike-dorner-173504-unsplash.jpg)
 
-</div>
+![](screenshot-2021-03-16-at-11.56.10.png)
