@@ -8,7 +8,7 @@ tags:
   - retrowave
   - future-funk
 ---
-![Fruits](_mg_1460.jpg)
+![](_mg_1460.jpg)
 
 ![](_mg_5909.jpg)
 
@@ -21,3 +21,5 @@ tags:
 ![](_mg_2026.jpg)
 
 ![](_mg_9288 —-копия.jpg)
+
+![](_mg_8913-3.jpg)
