@@ -6,6 +6,6 @@ thumbnail: dscf7398.jpg
 ---
 ![What about now?](dscf7327.jpg)
 
-![Still not?](dscf7321.jpg)
+![](dscf7321.jpg "Still not?")
 
-![Now?](dscf0623-1-перетянутый-.jpg)
+![](dscf0616-1-перетянутый-.jpg "Now?")
