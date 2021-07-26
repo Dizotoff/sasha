@@ -6,6 +6,10 @@ thumbnail: dscf7398.jpg
 ---
 ![](dscf7327.jpg)
 
+![](dscf7453.jpg)
+
+![](dscf7219-1-перетянутый-.jpg)
+
 ![](small-size.jpg)
 
 What about now?
