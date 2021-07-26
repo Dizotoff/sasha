@@ -6,6 +6,8 @@ thumbnail: dscf7398.jpg
 ---
 ![](dscf7327.jpg)
 
+![](small-size.jpg)
+
 What about now?
 
 ![](dscf7321.jpg)
