@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const Layout = props => {
+const Layout = (props) => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
   return (
@@ -25,8 +25,7 @@ const Layout = props => {
             </div>
           </a>
           <nav id="swup" class="site-head-left">
-            <ul className="nav" role="menu">
-            </ul>
+            <ul className="nav" role="menu"></ul>
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
@@ -53,7 +52,8 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-      &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link></footer>
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>
+      </footer>
     </div>
   )
 }

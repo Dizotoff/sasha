@@ -3,12 +3,13 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-// import Bio from "../components/bio"
+import Bio from "../components/bio"
 import PostCard from "../components/postCard"
 
 // import "../utils/global.scss"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
+import Form from "../components/form"
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
 const BlogIndex = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
@@ -19,9 +20,14 @@ const BlogIndex = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO
         title="Portfolio"
-        keywords={[`Photographer`, `Sasha`, `Savelievvaa`, `Helsinki`, `Portfolio`]}
+        keywords={[
+          `Photographer`,
+          `Sasha`,
+          `Savelievvaa`,
+          `Helsinki`,
+          `Portfolio`,
+        ]}
       />
-      {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h1 className="page-head-title">
@@ -42,6 +48,8 @@ const BlogIndex = ({ data }, location) => {
           )
         })}
       </div>
+      <Bio />
+      <Form />
     </Layout>
   )
 }
@@ -79,10 +87,10 @@ const indexQuery = graphql`
   }
 `
 
-export default props => (
+export default (props) => (
   <StaticQuery
     query={indexQuery}
-    render={data => (
+    render={(data) => (
       <BlogIndex location={props.location} props data={data} {...props} />
     )}
   />
