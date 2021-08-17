@@ -2,7 +2,7 @@
 title: EVENTS
 date: 2019-05-02
 description: Various events
-thumbnail: 1.jpg
+thumbnail: 8.jpg
 tags:
   - default
 ---
