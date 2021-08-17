@@ -1,7 +1,7 @@
 ---
-title: FASHION
+title: PREMISES
 date: 2019-05-02
-description: Various fashion projects
+description: Various premises
 thumbnail: 1.jpg
 tags:
   - default
@@ -30,9 +30,3 @@ tags:
 ![](12.jpg)
 
 ![](13.jpg)
-
-![](14.jpg)
-
-![](15.jpg)
-
-![](16.jpg)

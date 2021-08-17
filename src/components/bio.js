@@ -63,7 +63,7 @@ function Bio() {
               </p>
               <p>
                 Jos teillä on kysymyksiä, ehdotuksia tai haluatte varata
-                kuvauksen, täyttäkää alla oleva lomake
+                kuvauksen, täyttäkää alla oleva lomake:
               </p>
             </div>
           </div>

@@ -9,6 +9,8 @@ function Form() {
         data-netlify="true"
         style={{ maxWidth: "600px", flexGrow: "1" }}
       >
+        <input type="hidden" name="form-name" value="contact" />
+
         <p>
           <label>
             Name: <input type="text" name="name" />
