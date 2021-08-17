@@ -62,9 +62,8 @@ function Bio() {
                 tapahtumia.
               </p>
               <p>
-                Written by who lives and works in Osaka building useful things.
-                Written by who lives and works in Osaka building useful things.
-                Written by who lives and works in Osaka building useful things.
+                Jos teillä on kysymyksiä, ehdotuksia tai haluatte varata
+                kuvauksen, täyttäkää alla oleva lomake
               </p>
             </div>
           </div>
