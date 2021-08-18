@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import BackgroundVideo from "react-background-video-player"
-import video from "./background2.mp4"
+import video from "./background3.mp4"
 
 export default class Player extends Component {
   constructor(props) {
