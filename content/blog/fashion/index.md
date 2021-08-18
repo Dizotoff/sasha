@@ -2,12 +2,11 @@
 title: FASHION
 date: 2019-05-02
 description: Various fashion projects
-thumbnail: 1.jpg
+thumbnail: 15.jpg
 tags:
   - default
 ---
-
-![](2.jpg)
+![](1.jpg)
 
 ![](3.jpg)
 
@@ -17,9 +16,9 @@ tags:
 
 ![](6.jpg)
 
-![](7.jpg)
+![](04127f76-842f-4789-b994-35d7cfb0218b.jpeg)
 
-![](8.jpg)
+![](7.jpg)
 
 ![](9.jpg)
 
