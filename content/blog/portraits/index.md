@@ -2,7 +2,7 @@
 title: YOU
 date: 2012-05-02
 description: Project "You are the beauty"
-thumbnail: 19.jpg
+thumbnail: fabef4ba-2784-41ed-87b6-aab55bfcf5a1.jpg
 tags:
   - default
 ---
