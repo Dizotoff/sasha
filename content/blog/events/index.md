@@ -6,35 +6,14 @@ thumbnail: 8.jpg
 tags:
   - default
 ---
-
-![PATIO, MOUHOUS](11.jpg)
+![](11.jpg)
 
 ![](9.jpg)
 
-![PATIO, GETTOMASA](4.jpg)
+![](4.jpg)
 
 ![](5.jpg)
 
-![PATIO, EVELINA](6.jpg)
+![](6.jpg)
 
 ![](7.jpg)
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
