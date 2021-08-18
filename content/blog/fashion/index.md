@@ -6,7 +6,7 @@ thumbnail: 6.jpg
 tags:
   - default
 ---
-![Monqrime, VOLCHOK](5.jpg)
+![](5.jpg)
 
 ![](8.jpg)
 
