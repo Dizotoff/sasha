@@ -2,31 +2,30 @@
 title: PREMISES
 date: 2019-05-02
 description: Various premises
-thumbnail: 1.jpg
+thumbnail: dscf4016-2.jpg
 tags:
   - default
 ---
-
-![](2.jpg)
-
-![](3.jpg)
-
-![](4.jpg)
+![Haru Sushi ](4.jpg)
 
 ![](5.jpg)
 
-![](6.jpg)
-
-![](7.jpg)
-
-![](8.jpg)
-
-![](9.jpg)
-
-![](10.jpg)
+![Roasberg](8.jpg)
 
 ![](11.jpg)
 
 ![](12.jpg)
 
 ![](13.jpg)
+
+![](9.jpg)
+
+![](10.jpg)
+
+![](3.jpg)
+
+![](2.jpg)
+
+![](1.jpg)
+
+![]()
