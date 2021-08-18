@@ -6,9 +6,9 @@ thumbnail: 19.jpg
 tags:
   - default
 ---
-![](2.jpg)
+![](4bbb0457-4de9-4b98-af3c-6881dc211ea5.jpg)
 
-![](1.jpg)
+![](17.jpg)
 
 ![](3.jpg)
 
