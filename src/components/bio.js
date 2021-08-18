@@ -58,8 +58,7 @@ function Bio() {
                 että halusin näyttää kaverilleni, että hän on kauniimpi kuin hän
                 luulee. Ja niin se jatkui. Aloin kuvata muita ihmisiä ja
                 myöhemmin aloin ottamaan vastaan valokuvaustilauksia. Ja nyt
-                olen kuvaamassa monia eri asioita: Ruokaa, ihmisiä sekä
-                tapahtumia.
+                olen kuvaamassa monia eri asioita.
               </p>
               <p>
                 Jos teillä on kysymyksiä, ehdotuksia tai haluatte varata

@@ -1,11 +1,12 @@
 ---
 title: FASHION
-date: 2019-05-02
+date: 2020-05-02
 description: Various fashion projects
 thumbnail: 6.jpg
 tags:
   - default
 ---
+
 ![Monqrime, VOLCHOK](5.jpg)
 
 ![](8.jpg)

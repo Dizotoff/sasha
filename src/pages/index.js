@@ -5,11 +5,12 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Bio from "../components/bio"
 import PostCard from "../components/postCard"
-
+import Banner from "../components/banner"
 // import "../utils/global.scss"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 import Form from "../components/form"
+
 //TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
 const BlogIndex = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
@@ -26,15 +27,15 @@ const BlogIndex = ({ data }, location) => {
           `Savelievvaa`,
           `Helsinki`,
           `Portfolio`,
+          `Valokuvaaja`,
+          `Valokuvaus`,
+          `Henkilökuva`,
+          `Portretti`,
+          `Ruokakuvaus`,
+          `Muotokuvaus`,
         ]}
       />
-      {data.site.siteMetadata.description && (
-        <header className="page-head">
-          <h1 className="page-head-title">
-            {data.site.siteMetadata.description}
-          </h1>
-        </header>
-      )}
+      <Banner></Banner>
       <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++

@@ -32,6 +32,7 @@ const Layout = (props) => {
               {title}
             </Link>
           </div>
+
           <div className="site-head-right">
             <div className="social-links">
               <a
@@ -52,7 +53,19 @@ const Layout = (props) => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>
+        <p style={{ marginBottom: "0" }}>+358405112324</p>
+        <p style={{ marginBottom: "0" }}> Y-tunnus: 3222489-3 </p>
+        <a
+          href="https://www.instagram.com/savelievvaa/"
+          title="Instagram"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram
+        </a>
+        <p>
+          &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>
+        </p>
       </footer>
     </div>
   )
