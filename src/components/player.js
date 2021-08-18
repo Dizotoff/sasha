@@ -44,6 +44,7 @@ export default class Player extends Component {
         startTime={1}
         autoPlay={true}
         muted={true}
+        playsInline={true}
       />
     )
   }
