@@ -18,7 +18,7 @@ tags:
 
 ![](04127f76-842f-4789-b994-35d7cfb0218b.jpeg)
 
-![](7.jpg)
+![](c5cc871b-5883-4fea-a0f0-fd0fb4dcd377.jpeg)
 
 ![](9.jpg)
 
