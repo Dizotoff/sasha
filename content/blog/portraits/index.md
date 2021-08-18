@@ -1,7 +1,7 @@
 ---
 title: YOU
 date: 2019-05-02
-description: You are the beauty
+description: Project "You are the beauty"
 thumbnail: 19.jpg
 tags:
   - default
