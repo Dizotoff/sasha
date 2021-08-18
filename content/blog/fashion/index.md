@@ -15,7 +15,7 @@ tags:
 
 ![](16.jpg)
 
-![SISTERHOOD online](14.jpg)
+![](14.jpg)
 
 ![](13.jpg)
 
@@ -27,7 +27,7 @@ tags:
 
 ![](3.jpg)
 
-![MixiSixi online](11.jpg)
+![](11.jpg)
 
 ![](10.jpg)
 
