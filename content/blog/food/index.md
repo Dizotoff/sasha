@@ -12,7 +12,7 @@ tags:
 
 ![](5.jpg)
 
-![HARU SUSHI](15.jpg)
+![](15.jpg)
 
 ![](16.jpg)
 
