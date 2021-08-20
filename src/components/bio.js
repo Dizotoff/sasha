@@ -49,9 +49,8 @@ function Bio() {
             >
               <p>
                 Olen Aleksandra Savelieva, valokuvaaja Helsingistä. Yritän saada
-                kuvattua oikeita tunteita. Aidot tunteet ovat kaunein
-                elämän/maailman ilmiö. Juuri se ajaa minut tekemään työtäni
-                kovalla rakkaudella.
+                kuvattua oikeita tunteita. Aidot tunteet ovat kaunein elämän
+                ilmiö. Juuri se ajaa minut tekemään työtäni kovalla rakkaudella.
               </p>
               <p>
                 Aloitin valokuvata noin kolme vuotta sitten ja se alkoi siitä,
