@@ -26,12 +26,10 @@ function Form() {
             Message: <textarea name="message"></textarea>
           </label>
         </p>
-        <div
-          className="button.large"
-          style={{ display: "flex", justifyContent: "center" }}
-        >
-          <button type="submit">Send</button>
-        </div>
+
+        <button className="subscribe-button" type="submit">
+          Send
+        </button>
       </form>
     </div>
   )

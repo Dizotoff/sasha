@@ -18,8 +18,8 @@ function Bio() {
         return (
           <div
             style={{
-              paddingTop: "48px",
-              paddingBottom: "48px",
+              paddingTop: "32px",
+              paddingBottom: "0",
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
@@ -30,8 +30,8 @@ function Bio() {
                 flexGrow: "1",
                 display: "flex",
                 justifyContent: "center",
-                padding: "24px",
                 width: "100%",
+                paddingBottom: "24px",
               }}
             >
               <Img

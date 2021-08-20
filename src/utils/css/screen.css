@@ -229,10 +229,8 @@ body {
 }
 
 .subscribe-button {
-  display: block;
+  width: 100%;
   padding: 4px 10px;
-  border: var(--color-base) 1px solid;
-  color: var(--color-base);
   font-size: 1.2rem;
   line-height: 1em;
   border-radius: 10px;
@@ -279,7 +277,7 @@ body {
   .site-head-container {
     flex-direction: column;
     justify-content: flex-start;
-    height: 40px;
+    height: 50px;
     background: rgba(255, 255, 255, 0);
     z-index: -1;
     transition: all 0.4s ease-out;
