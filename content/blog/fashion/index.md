@@ -6,7 +6,11 @@ thumbnail: 6.jpg
 tags:
   - default
 ---
+![](_mg_9701-1-перетянутый-.jpg)
+
 ![](5.jpg)
+
+
 
 ![](8.jpg)
 
