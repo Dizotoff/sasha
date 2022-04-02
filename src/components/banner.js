@@ -17,7 +17,7 @@ const Banner = ({ children }) => (
 
     <div style={{ color: "white", zIndex: "1", maxWidth: "600px" }}>
       <h1 style={{ color: "white", textAlign: "center" }}>
-        SAVELIEVA PHOTOGRAPHY
+        LIISKI PHOTOGRAPHY
       </h1>
     </div>
   </div>
