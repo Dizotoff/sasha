@@ -1,8 +1,8 @@
 module.exports = {
-  name: 'Savelievvaa',
+  name: 'Liiski',
   shortName: 'DURÁ',
   description: 'DURÁ',
-  url: 'https://savelievvaa.com', 
+  url: 'https://liiski.com', 
   prefix: '/',
   author: '',
   twitter: ''
