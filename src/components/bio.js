@@ -48,7 +48,7 @@ function Bio() {
               }}
             >
               <p>
-                Olen Aleksandra Savelieva, valokuvaaja Helsingistä. Yritän saada
+                Olen Aleksandra Alina Liiski, valokuvaaja Helsingistä. Yritän saada
                 kuvattua oikeita tunteita. Aidot tunteet ovat kaunein elämän
                 ilmiö. Juuri se ajaa minut tekemään työtäni kovalla rakkaudella.
               </p>
