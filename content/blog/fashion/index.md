@@ -1,12 +1,14 @@
 ---
 title: FASHION
 date: 2020-05-02
-description: Various fashion projects
+description: Marketing fashion projects
 thumbnail: 6.jpg
 tags:
   - default
 ---
 ![](_mg_9701-1-перетянутый-.jpg)
+
+![](dscf1670.jpg)
 
 ![](5.jpg)
 
