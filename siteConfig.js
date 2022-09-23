@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'Liiski',
+  name: 'Liski',
   shortName: 'DURÁ',
   description: 'DURÁ',
   url: 'https://liiski.com', 
